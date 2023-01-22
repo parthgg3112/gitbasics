@@ -2,3 +2,4 @@ pandas - table
 numpy - series
 matplotlib - graph
 seaborn - graph
+skllearn - prediction
